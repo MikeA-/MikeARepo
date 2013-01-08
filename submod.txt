@@ -5,4 +5,5 @@ etc
 instruct 44
 instruct 45
 etc
+instruct n-1
 instruct n
