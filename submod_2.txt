@@ -2,6 +2,7 @@ instruct 1
 instruct 2
 instruct 3
 etc
+2ND COMMIT adding this line to fix #5
 instruct 44
 instruct 45
 etc

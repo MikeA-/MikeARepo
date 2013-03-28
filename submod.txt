@@ -3,9 +3,8 @@ instruct 2
 instruct 3
 etc
 added this to fix #5
-instruct 43
 instruct 44
-instruct 45
 deleted the etc!!! to fix #5
 instruct n-1
 instruct n
+removed a couple lines above and then added this as a 2nd commit!! fixing #5
